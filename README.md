@@ -18,7 +18,7 @@
 
   <!-- Seção de Tecnologias -->
 <section id="skills">
-  <h2>Habilidades Técnicas</h2>
+  <h2>Skills</h2>
   
   <!-- Sistemas Embarcados -->
   <h4>Sistemas Embarcados</h4>
