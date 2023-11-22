@@ -4,10 +4,11 @@
 <body>
 
   <section id="perfil">
-    <img src="link_para_sua_imagem.jpg" alt="Avatar" style="float: left; border-radius: 50%; margin-right: 20px; width: 150px; height: 150px;">
+   
     <div style="overflow: hidden;">
       <h1>Bem-vindo ao meu perfil no GitHub!</h1>
       <h2>Sobre mim</h2>
+       <img src="link_para_sua_imagem.jpg" alt="Avatar" style="float: left; border-radius: 50%; margin-right: 20px; width: 150px; height: 150px;">
       <p>
         Sou graduando em Engenharia da Computação na UFAM e Técnico em Mecatrônica pelo IFAM, com experiência em projetos de P&D industriais... [restante do texto]
       </p>
