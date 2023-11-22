@@ -1,25 +1,11 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Seu Perfil no GitHub</title>
-  <style>
-    .perfil-img {
-      float: left; /* Alinha a imagem à esquerda */
-      border-radius: 50%; /* Deixa as bordas redondas */
-      margin-right: 20px; /* Espaço entre a imagem e o texto */
-      width: 150px; /* Largura da imagem */
-      height: 150px; /* Altura da imagem */
-    }
-    .perfil-texto {
-      overflow: hidden; /* Garante que o texto não fique por baixo da imagem */
-    }
-  </style>
-</head>
+
 <body>
 
-<section id="perfil">
-    <img src="link_para_sua_imagem.jpg" alt="Avatar" class="perfil-img">
-    <div class="perfil-texto">
+  <section id="perfil">
+    <img src="link_para_sua_imagem.jpg" alt="Avatar" style="float: left; border-radius: 50%; margin-right: 20px; width: 150px; height: 150px;">
+    <div style="overflow: hidden;">
       <h1>Bem-vindo ao meu perfil no GitHub!</h1>
       <h2>Sobre mim</h2>
       <p>
