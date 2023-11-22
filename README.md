@@ -1,1 +1,1 @@
-## Oiii, Eu sou Adriel. Pesquisador e Entusiasta do mundo computacional!
+## Oiii, Eu sou Adriel! 
