@@ -3,16 +3,19 @@
 
 <body>
 
-  <section id="perfil">
-          <img src="link_para_sua_imagem.jpg" alt="Avatar" style="float: left; border-radius: 50%; margin-right: 20px; width: 150px; height: 150px;">
-    <div style="overflow: hidden;">
+<section id="perfil">
+  <div style="display: flex; align-items: center;">
+    <div style="text-align: justify;">
       <h1>Bem-vindo ao meu perfil no GitHub!</h1>
       <h2>Sobre mim</h2>
       <p>
-        Sou graduando em Engenharia da Computação na UFAM e Técnico em Mecatrônica pelo IFAM, com experiência em projetos de P&D industriais... [restante do texto]
+        Sou graduando em Engenharia da Computação pela UFAM e Técnico em Mecatrônica pelo IFAM. Tenho experiência em P&D industrial, atuando especialmente na área de QA. Nesse papel, me responsabilizei pelo design e execução de testes de regressão e sanidade, incluindo testes manuais e automatizados em Android, e tenho familiaridade com ferramentas como JIRA, Confluence, Pytest, Cypress e Selenium. Na pesquisa, foco no desenvolvimento de soluções com sistemas embarcados, processamento de dados, vídeo e imagem, com ênfase em Inteligência Artificial e aprendizado de máquina. Tenho experiência com bibliotecas de IA em Python e ferramentas como GStreamer e FFmpeg, além de familiaridade com FPGA. Participei de projetos de pesquisa que resultaram em publicações científicas internacionais pelo CETELI-UFAM.
       </p>
     </div>
-  </section>
+  </div>
+</section>
+
+
 
   <!-- Seção de Tecnologias -->
   <section id="tecnologias">
@@ -26,11 +29,11 @@
   </section>
 
   <!-- Seção do Status do GitHub -->
-  <section id="github-status">
-    <h2>Status do GitHub</h2>
-    <img src="link_para_seu_status_do_github.png" alt="Status do GitHub">
-    <!-- Você pode usar ferramentas como https://github-readme-stats.vercel.app/ para gerar status -->
-  </section>
+<section id="github-stats">
+  <h2>Meu Status no GitHub</h2>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adrielvasques&theme=vue-dark&hide_border=true" alt="Status do GitHub">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adrielvasques&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" alt="Status do GitHub">
+</section>
 
   <!-- Seção de Artigos Publicados -->
   <section id="artigos">
