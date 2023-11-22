@@ -1,14 +1,31 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <title>Seu Perfil no GitHub</title>
+  <style>
+    .perfil-img {
+      float: left; /* Alinha a imagem à esquerda */
+      border-radius: 50%; /* Deixa as bordas redondas */
+      margin-right: 20px; /* Espaço entre a imagem e o texto */
+      width: 150px; /* Largura da imagem */
+      height: 150px; /* Altura da imagem */
+    }
+    .perfil-texto {
+      overflow: hidden; /* Garante que o texto não fique por baixo da imagem */
+    }
+  </style>
+</head>
 <body>
 
-  <!-- Seção do Perfil -->
-  <section id="perfil">
-    <h1>Bem-vindo ao meu perfil no GitHub!</h1>
-    <h2>Sobre mim</h2>
-    <p>
-      Sou graduando em Engenharia da Computação na UFAM e Técnico em Mecatrônica pelo IFAM, com experiência em projetos de P&D industriais. Atuo como QA, responsável por testes de regressão e sanidade, além de testes manuais e automatizados em Android, utilizando ferramentas como JIRA, Confluence, Pytest, Cypress e Selenium. Na pesquisa, me foco em soluções com sistemas embarcados e processamento de dados, incluindo vídeo e imagem, com ênfase em IA e aprendizado de máquina, utilizando bibliotecas de IA em Python e ferramentas como GStreamer e FFmpeg. Também tenho experiência com FPGA e participei de projetos de pesquisa que resultaram em publicações científicas internacionais através do CETELI-UFAM.
-    </p>
+<section id="perfil">
+    <img src="link_para_sua_imagem.jpg" alt="Avatar" class="perfil-img">
+    <div class="perfil-texto">
+      <h1>Bem-vindo ao meu perfil no GitHub!</h1>
+      <h2>Sobre mim</h2>
+      <p>
+        Sou graduando em Engenharia da Computação na UFAM e Técnico em Mecatrônica pelo IFAM, com experiência em projetos de P&D industriais... [restante do texto]
+      </p>
+    </div>
   </section>
 
   <!-- Seção de Tecnologias -->
