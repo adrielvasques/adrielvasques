@@ -4,9 +4,11 @@
 
   <!-- Seção do Perfil -->
   <section id="perfil">
-    <img src="link_para_seu_avatar.png" alt="Avatar" style="width: 100px; height: 100px;">
-    <h1>Olá, eu sou [Seu Nome]!</h1>
-    <p>Uma breve introdução sobre você e sua jornada profissional.</p>
+    <h1>Bem-vindo ao meu perfil no GitHub!</h1>
+    <h2>Sobre mim</h2>
+    <p>
+      Sou graduando em Engenharia da Computação na UFAM e Técnico em Mecatrônica pelo IFAM, com experiência em projetos de P&D industriais. Atuo como QA, responsável por testes de regressão e sanidade, além de testes manuais e automatizados em Android, utilizando ferramentas como JIRA, Confluence, Pytest, Cypress e Selenium. Na pesquisa, me foco em soluções com sistemas embarcados e processamento de dados, incluindo vídeo e imagem, com ênfase em IA e aprendizado de máquina, utilizando bibliotecas de IA em Python e ferramentas como GStreamer e FFmpeg. Também tenho experiência com FPGA e participei de projetos de pesquisa que resultaram em publicações científicas internacionais através do CETELI-UFAM.
+    </p>
   </section>
 
   <!-- Seção de Tecnologias -->
