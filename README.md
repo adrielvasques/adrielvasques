@@ -1,8 +1,5 @@
 <!DOCTYPE html>
 <html>
-<head>
-  <title>Seu Nome</title>
-</head>
 <body>
 
   <!-- Seção do Perfil -->
