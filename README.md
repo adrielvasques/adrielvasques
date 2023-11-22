@@ -44,14 +44,6 @@
     <li>Gerenciamento de bugs e relatórios utilizando JIRA</li>
   </ul>
 
-  <!-- Metodologias Ágeis -->
-  <h4>Metodologias Ágeis</h4>
-  <ul>
-    <li>Práticas ágeis como Scrum e Kanban</li>
-    <li>Participação ativa em sprints, planejamentos e retrospectivas</li>
-    <li>Comunicação eficiente e trabalho em equipe</li>
-  </ul>
-
   <!-- Linux -->
   <h4>Linux</h4>
   <ul>
