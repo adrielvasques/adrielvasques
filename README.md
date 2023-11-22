@@ -1,10 +1,7 @@
-<!-- README.md is generated from README.html -->
-
 <!DOCTYPE html>
 <html>
 <head>
   <title>Seu Nome</title>
-  <!-- Adicione estilos ou links para folhas de estilo aqui, se necessário -->
 </head>
 <body>
 
