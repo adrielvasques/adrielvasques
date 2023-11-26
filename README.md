@@ -49,7 +49,7 @@
   <ul>
     <li>Administração de sistemas Linux e uso de linha de comando</li>
     <li>Desenvolvimento e deploy de aplicações em ambientes Linux</li>
-    <li>Conhecimento em scripts de shell e automação</li>
+    <li>Conhecimento em scripts de shell</li>
   </ul>
 
   <!-- Inteligência Artificial -->
