@@ -75,5 +75,12 @@
     <li><a href="https://ieeexplore.ieee.org/document/9869233" target="_blank">Design and Implementation of a Software Library for Industrial IoT Sensor/Actuator Nodes</a></li>
   </ul>
   </section>
+<section id="PIBIC">
+    <h2>PIBIC</h2>
+    <ul>
+        <li><a href="https://www.even3.com.br/anais/conicufam/445349-investigacao-de-tecnicas-de-transmissao-de-video-utilizando-redes-wifi-com-broadcast-de-dados/" target="_blank">Investigação de técnicas de transmissão de vídeo utilizando redes wifi com broadcast de dados</a></li>
+        </ul>
+    </section>
+  
 </body>
 </html>
